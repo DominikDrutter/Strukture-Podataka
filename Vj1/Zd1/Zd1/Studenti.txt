@@ -1,0 +1,10 @@
+Prvi Student 15
+Drugi Student 35
+Treci Student 5
+Cetvrti Student 80
+Peti Student 60
+Sesti Student 90
+Sedmi Student 0
+Osmi Student 100
+Deveti Student 40
+Deseti Student 5
