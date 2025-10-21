@@ -3,15 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj1\\Zd1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{01D73706-B08E-4856-BAED-D6BF9BE79E62}|Zd1\\Zd1.vcxproj|C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj1\\Zd1\\Zd1\\Zd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{01D73706-B08E-4856-BAED-D6BF9BE79E62}|Zd1\\Zd1.vcxproj|solutionrelative:Zd1\\Zd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj1\\Zd1\\Zd1\\Zd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zd1\\Zd1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01D73706-B08E-4856-BAED-D6BF9BE79E62}|Zd1\\Zd1.vcxproj|C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj1\\Zd1\\Zd1\\Studenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{01D73706-B08E-4856-BAED-D6BF9BE79E62}|Zd1\\Zd1.vcxproj|solutionrelative:Zd1\\Studenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\123cr\\AppData\\Local\\Temp\\Rar$DIa51500.19365\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj1\\Zd1\\Zd1\\Studenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Zd1\\Studenti.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\123cr\\AppData\\Local\\Temp\\Rar$DIa51500.19365\\main.c",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51500.19365\\main.c",
-              "ToolTip": "C:\\Users\\123cr\\AppData\\Local\\Temp\\Rar$DIa51500.19365\\main.c",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DIa51500.19365\\main.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-12T02:35:57.524Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -44,9 +28,9 @@
               "RelativeDocumentMoniker": "Zd1\\Studenti.txt",
               "ToolTip": "C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj1\\Zd1\\Zd1\\Studenti.txt",
               "RelativeToolTip": "Zd1\\Studenti.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-10-12T00:59:44.314Z",
+              "WhenOpened": "2025-10-15T21:45:42.571Z",
               "EditorCaption": ""
             },
             {
@@ -57,9 +41,9 @@
               "RelativeDocumentMoniker": "Zd1\\Zd1.c",
               "ToolTip": "C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj1\\Zd1\\Zd1\\Zd1.c",
               "RelativeToolTip": "Zd1\\Zd1.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-10-12T00:50:24.653Z",
+              "WhenOpened": "2025-10-15T21:44:10.489Z",
               "EditorCaption": ""
             }
           ]

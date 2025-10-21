@@ -1,0 +1,12 @@
+﻿  Zd2.c
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(54,12): warning C4033: 'startPerson' must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(70,12): warning C4033: 'endPerson' must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(74,3): warning C4033: 'endPerson' must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(95,3): warning C4033: 'printList' must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(139,3): warning C4033: 'deletePerson' must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(149,2): warning C4033: 'deletePerson' must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(82,1): warning C4716: 'endPerson': must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(102,1): warning C4716: 'printList': must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(58,1): warning C4716: 'startPerson': must return a value
+C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\Zd2\Zd2.c(150,1): warning C4716: 'deletePerson': must return a value
+  Zd2.vcxproj -> C:\Users\123cr\Desktop\Strukture-Podataka\Vj2\Zd2\x64\Debug\Zd2.exe

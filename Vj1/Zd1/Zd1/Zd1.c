@@ -63,7 +63,7 @@ int printData(Student* studenti, int broj_studenata) {
 
 int main() {
     Student* studenti = NULL;
-    int broj_studenata = datoteka("studenti.txt", &studenti);
+    int broj_studenata = datoteka("Studenti.txt", &studenti);
     if (broj_studenata == -1) {
         printf("Greška pri èitanju datoteke ili alokaciji memorije.\n");
         return 1;
