@@ -1,0 +1,7 @@
+3. Prethodnom zadatku dodati funkcije:
+
+	A. dinamički dodaje novi element iza određenog elementa,
+	B. dinamički dodaje novi element ispred određenog elementa,
+	C. sortira listu po prezimenima osoba,
+	D. upisuje listu u datoteku,
+	E. čita listu iz datoteke.

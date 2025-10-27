@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj3\\Zd3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{013848C2-998F-4439-9DB4-9EE5B524247E}|Zd3\\Zd3.vcxproj|C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj3\\Zd3\\Zd3\\Zd3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{013848C2-998F-4439-9DB4-9EE5B524247E}|Zd3\\Zd3.vcxproj|solutionrelative:Zd3\\Zd3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zd3.c",
+              "DocumentMoniker": "C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj3\\Zd3\\Zd3\\Zd3.c",
+              "RelativeDocumentMoniker": "Zd3\\Zd3.c",
+              "ToolTip": "C:\\Users\\123cr\\Desktop\\Strukture-Podataka\\Vj3\\Zd3\\Zd3\\Zd3.c",
+              "RelativeToolTip": "Zd3\\Zd3.c",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAABIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-27T22:27:51.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
