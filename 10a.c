@@ -26,7 +26,14 @@ typedef struct _drzava {			    // Struktura za čvor liste država
 
 
 
-
+// Funkcije koje su potrebne za ovaj zadatak;
+// 1. loadGradovi - Za učitavanje gradova iz datoteke i umetanje u stablo gradova
+// 2. findDrzava - Za pronalaženje države u listi država po nazivu
+// 3. insertDrzava - Za umetanje države u sortiranu listu država
+// 4. searchGradovi - Za pretraživanje stabla gradova i ispis gradova sa više stanovnika od unetog minimuma
+// 5. printGradovi - Za ispis svih gradova iz stabla u rastućem redosljedu po broju stanovnika
+// 6. insertGrad - Za umetanje grada u stablo gradova
+// 7. createGrad - Za kreiranje novog čvora stabla gradova
 
 
 
